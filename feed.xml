@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Menatoz, Inc. Projects</title>
+  <subtitle>Blog for Menatoz projects</subtitle>
+  <id>http://menatoz.com</id>
+  <link href="http://menatoz.com"/>
+  <link href="http://menatoz.com/feed.xml" rel="self"/>
+  <updated>2015-05-04T15:00:00Z</updated>
+  <author>
+    <name>Zenta Hori</name>
+  </author>
+  <entry>
+    <title>誰でも手軽に楽しめるオンラインカジノを作る - Tokyo Casino Style</title>
+    <link rel="alternate" href="http://menatoz.com/2015/05/05/online-casino-project.html"/>
+    <id>http://menatoz.com/2015/05/05/online-casino-project.html</id>
+    <published>2015-05-04T15:00:00Z</published>
+    <updated>2015-05-06T03:09:35+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id="プロジェクト概要"&gt;プロジェクト概要&lt;/h3&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;誰でも手軽にプレーできるオンラインカジノを運営します。
+&lt;br&gt;
+&lt;br&gt;
+既存のオンラインカジノは、複雑なUIや数多くのゲームラインアップがあることから一部の投資家やギャンブラー、ゲーマーだけのものでした。
+&lt;br&gt;
+一般の主婦などにはパチンコや宝くじといった他のギャンブルに比べて敷居が高く感じられる傾向があるのです。&lt;/p&gt;
+
+&lt;p&gt;また、カードゲームでの最低賭け金は、１００円単位と手軽に始めるには多少割高感があります。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+そこで、これらの煩雑さを払拭し、最低賭け金が１０円単位で始められるオンラインカジノをはじめます。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+オンラインカジノでは、下記を実現します。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- シンプルなUIと共に煩雑さを回避するためにゲーム本数を限定する。
+- 最低賭け金を１０円単位からとする。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id="資金調達"&gt;資金調達&lt;/h3&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id="トータル-:-1600万円"&gt;トータル : 1600万円&lt;/h4&gt;
+
+&lt;h4 id="内訳"&gt;内訳&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;600万円
+
+&lt;ul&gt;
+&lt;li&gt;ゲームデベロッパー(game platformer) Soft Swissから購入した場合の導入初期費用&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;900万円
+
+&lt;ul&gt;
+&lt;li&gt;広告運営費&lt;/li&gt;
+&lt;li&gt;ローンチ前1ヶ月のプロモーション費用&lt;/li&gt;
+&lt;li&gt;黒字化安定までの6ヶ月+Buffer(2ヶ月)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;100万円
+
+&lt;ul&gt;
+&lt;li&gt;その他経費&lt;/li&gt;
+&lt;li&gt;レンタルオフィス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;別途詳細については、資料を提示予定&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Menatoz 始動！</title>
+    <link rel="alternate" href="http://menatoz.com/2015/05/04/menatoz-starts.html"/>
+    <id>http://menatoz.com/2015/05/04/menatoz-starts.html</id>
+    <published>2015-05-03T15:00:00Z</published>
+    <updated>2015-05-06T03:40:50+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id="what-is-menatoz?"&gt;What is Menatoz?&lt;/h3&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;code&gt;Menatoz&lt;/code&gt;と書いて、&lt;code&gt;メネートス&lt;/code&gt;と読みます。&lt;/p&gt;
+
+&lt;p&gt;Menatozとは創立者のZenとAkiが１年以上温めてきた、事業に対する熱い思いを実現に移すための組織です。&lt;/p&gt;
+
+&lt;p&gt;ZenとAkiはこの世界をよりよくするための事業プランやビジネスを日々語り合い、
+皆が幸せになれると同時に利益を上げることのできるビジネスモデルを議論してまいりました。&lt;/p&gt;
+
+&lt;p&gt;そんな思いを実現するためのプロジェクトをこれからいくつも実行していきます。
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Menatozを分解すると、Men + AtoZになります。
+Menは、２名の熱い意思を持った男たちを表しています。
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;AtoZは、アルファベットのAからZまでを包含する広いことを実現するという意味を含むと同時に、
+創立者であるAkiとZenの頭文字をとってAからZとしました。
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;また、今後我々がお世話になるであろう、すべての人々の頭文字(イニシャル)も含まれるように、
+AtoZとすべてのアルファベットが含まれるような名前にしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id="get-involved-in-us"&gt;Get involved in us&lt;/h3&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Menatozの事業を実現するためにそれぞれのプロジェクト単位で下記のメンバーを募集しております。
+&lt;br&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- プロジェクトを事業化するにあたり投資をしていただける投資家の方 
+- 一緒にプロジェクトを推進して行っていただけるメンバーの方 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;
+ご興味の持っていただけるプロジェクトがございましたら、ご遠慮なく連絡をください。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
