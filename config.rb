@@ -103,10 +103,12 @@ activate :livereload
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://menatoz.com'
+set :site_url, 'http://zentahori.github.io'
 set :site_author, 'Zenta Hori'
 set :site_title, 'Menatoz, Inc. Projects'
 set :site_description, 'Blog for Menatoz projects'
+set :relative_links, true
+
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
 set :theme_name, 'flatly'
@@ -162,7 +164,7 @@ configure :build do
   activate :relative_assets
 
   # Or use a different image path
-  # set :http_prefix, "/Content/images/"
+  # set :http_prefix, "/menatoz/"
 end
 
 ###
