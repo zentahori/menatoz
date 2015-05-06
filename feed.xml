@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Menatoz, Inc. Projects</title>
   <subtitle>Blog for Menatoz projects</subtitle>
-  <id>http://menatoz.com</id>
-  <link href="http://menatoz.com"/>
-  <link href="http://menatoz.com/feed.xml" rel="self"/>
+  <id>http://zentahori.github.io/menatoz</id>
+  <link href="http://zentahori.github.io/menatoz"/>
+  <link href="http://zentahori.github.io/feed.xml" rel="self"/>
   <updated>2015-05-04T15:00:00Z</updated>
   <author>
     <name>Zenta Hori</name>
   </author>
   <entry>
     <title>誰でも手軽に楽しめるオンラインカジノを作る - Tokyo Casino Style</title>
-    <link rel="alternate" href="http://menatoz.com/2015/05/05/online-casino-project.html"/>
-    <id>http://menatoz.com/2015/05/05/online-casino-project.html</id>
+    <link rel="alternate" href="http://zentahori.github.io/2015/05/05/online-casino-project.html"/>
+    <id>http://zentahori.github.io/2015/05/05/online-casino-project.html</id>
     <published>2015-05-04T15:00:00Z</published>
     <updated>2015-05-06T03:09:35+09:00</updated>
     <author>
@@ -80,8 +80,8 @@
   </entry>
   <entry>
     <title>Menatoz 始動！</title>
-    <link rel="alternate" href="http://menatoz.com/2015/05/04/menatoz-starts.html"/>
-    <id>http://menatoz.com/2015/05/04/menatoz-starts.html</id>
+    <link rel="alternate" href="http://zentahori.github.io/2015/05/04/menatoz-starts.html"/>
+    <id>http://zentahori.github.io/2015/05/04/menatoz-starts.html</id>
     <published>2015-05-03T15:00:00Z</published>
     <updated>2015-05-06T03:40:50+09:00</updated>
     <author>

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://menatoz.com/sitemap.xml
+Sitemap: http://zentahori.github.io/menatoz/sitemap.xml
