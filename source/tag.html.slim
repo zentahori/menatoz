@@ -33,7 +33,7 @@ ul
       img.img-responsive src=article.data.image_src
       hr
     = article.summary
-    a.btn.btn-primary href=article.url
+    = link_to article.url, class: "btn btn-primary"
       | Read More
       span.glyphicon.glyphicon-chevron-right
     hr
