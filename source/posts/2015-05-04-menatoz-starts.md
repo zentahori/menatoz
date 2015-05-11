@@ -4,6 +4,8 @@ date: 2015-05-04
 tags: menatoz, abstract, zenta
 ---
 
+![menatoz](../images/business_image.jpg)
+
 <br>
 <br>
 
