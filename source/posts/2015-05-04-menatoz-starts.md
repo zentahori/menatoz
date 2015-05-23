@@ -12,7 +12,7 @@ tags: menatoz, abstract, zenta
 ### What is Menatoz?
 ---
 
-`Menatoz`と書いて、`メネートス`と読みます。
+`Menatoz`と書いて、`メナトス`と読みます。
 
 Menatozとは創立者のZenとAkiが１年以上温めてきた、事業に対する熱い思いを実現に移すための組織です。
 
